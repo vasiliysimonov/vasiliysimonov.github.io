@@ -1,11 +1,13 @@
-[{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.softbears.testauthentication",
-    "sha256_cert_fingerprints": [
-      "F2:4A:83:9A:96:2C:4A:17:67:B1:E8:07:DE:B0:99:54:59:91:A2:7B:22:33:DB:3D:99:AB:FA:29:67:9E:9E:D8", 
-      "DA:1A:DA:C8:40:AF:4A:C1:DB:63:65:37:26:66:24:B9:31:DD:33:40:37:F9:21:35:D3:06:0F:10:FE:56:A8:E5"
-    ]
+[
+  {
+    "relation": ["delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.softbears.testauthentication",
+      "sha256_cert_fingerprints": [
+        "F2:4A:83:9A:96:2C:4A:17:67:B1:E8:07:DE:B0:99:54:59:91:A2:7B:22:33:DB:3D:99:AB:FA:29:67:9E:9E:D8", 
+        "DA:1A:DA:C8:40:AF:4A:C1:DB:63:65:37:26:66:24:B9:31:DD:33:40:37:F9:21:35:D3:06:0F:10:FE:56:A8:E5"
+      ]
+    }
   }
-}]
+]
