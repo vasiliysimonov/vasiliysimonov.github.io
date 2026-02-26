@@ -11,5 +11,12 @@
         "F2:4A:83:9A:96:2C:4A:17:67:B1:E8:07:DE:B0:99:54:59:91:A2:7B:22:33:DB:3D:99:AB:FA:29:67:9E:9E:D8"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "web",
+      "site": "https://vasiliysimonov.github.io"
+    }
   }
 ]
